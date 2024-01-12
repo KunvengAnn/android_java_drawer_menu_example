@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Drawer_menu_example</string>
+
+
+    <!-- to toggle the open close button of the navigation drawer -->
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+</resources>
